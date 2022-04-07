@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/DigiSkillsBelgium/static/css/main.46d47c8a.css",
+    "main.js": "/DigiSkillsBelgium/static/js/main.84ceb8b1.js",
+    "static/media/main_img.jpg": "/DigiSkillsBelgium/static/media/main_img.5d736710c24da234da05.jpg",
+    "static/media/topPicks_1.jpg": "/DigiSkillsBelgium/static/media/topPicks_1.9d2b5b0d41f5dcf1ebac.jpg",
+    "static/media/topPicks_4.jpg": "/DigiSkillsBelgium/static/media/topPicks_4.f1d117fa2ead838dfacb.jpg",
+    "static/media/thirdDivCard_2.jpg": "/DigiSkillsBelgium/static/media/thirdDivCard_2.c34207756270cb2d3a69.jpg",
+    "static/media/thirdDivCard_3.jpg": "/DigiSkillsBelgium/static/media/thirdDivCard_3.07e2d506e1e1430bc226.jpg",
+    "static/media/fourthDiv_main.jpg": "/DigiSkillsBelgium/static/media/fourthDiv_main.d5cff4ced08b5588c7b5.jpg",
+    "static/media/thirdDivCard_1.jpg": "/DigiSkillsBelgium/static/media/thirdDivCard_1.8ee07f869efc245d1357.jpg",
+    "static/media/topPicks_3.jpg": "/DigiSkillsBelgium/static/media/topPicks_3.94e1a444a9ed6fe186d3.jpg",
+    "static/media/topPicks_2.jpg": "/DigiSkillsBelgium/static/media/topPicks_2.8ef61d198aa2b67e19ca.jpg",
+    "static/media/main_logo.png": "/DigiSkillsBelgium/static/media/main_logo.7c931bf48b9f467baaf2.png",
+    "static/media/search_icon.png": "/DigiSkillsBelgium/static/media/search_icon.ca7aae46e8e72453beed.png",
+    "index.html": "/DigiSkillsBelgium/index.html",
+    "main.46d47c8a.css.map": "/DigiSkillsBelgium/static/css/main.46d47c8a.css.map",
+    "main.84ceb8b1.js.map": "/DigiSkillsBelgium/static/js/main.84ceb8b1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46d47c8a.css",
+    "static/js/main.84ceb8b1.js"
+  ]
+}
