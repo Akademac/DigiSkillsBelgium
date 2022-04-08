@@ -57,7 +57,7 @@ const SixthDiv = () => {
             btnContentProps={3}
             pColorProp="#8B8B8E"
             btnWidthProp="7.4rem"
-            pMarginProp='2.15rem'
+            pMarginProp="2.15rem"
           />
           <Card
             imgProp={sixthDiv_2}
