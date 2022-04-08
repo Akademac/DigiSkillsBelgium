@@ -1,9 +1,13 @@
 {
   "files": {
-    "main.css": "/DigiSkillsBelgium/static/css/main.46d47c8a.css",
-    "main.js": "/DigiSkillsBelgium/static/js/main.84ceb8b1.js",
+    "main.css": "/DigiSkillsBelgium/static/css/main.b58e7f74.css",
+    "main.js": "/DigiSkillsBelgium/static/js/main.eb0575ed.js",
     "static/media/main_img.jpg": "/DigiSkillsBelgium/static/media/main_img.5d736710c24da234da05.jpg",
+    "static/media/sixthDiv_main.jpg": "/DigiSkillsBelgium/static/media/sixthDiv_main.c8cf1afa284506a7176d.jpg",
     "static/media/topPicks_1.jpg": "/DigiSkillsBelgium/static/media/topPicks_1.9d2b5b0d41f5dcf1ebac.jpg",
+    "static/media/sixthDiv_2.jpg": "/DigiSkillsBelgium/static/media/sixthDiv_2.f6fd2cea58ebbf9929f8.jpg",
+    "static/media/sixthDiv_1.jpg": "/DigiSkillsBelgium/static/media/sixthDiv_1.38f25ab08ac27c971fef.jpg",
+    "static/media/sixthDiv_3.jpg": "/DigiSkillsBelgium/static/media/sixthDiv_3.70359a1a5760e1258a1c.jpg",
     "static/media/topPicks_4.jpg": "/DigiSkillsBelgium/static/media/topPicks_4.f1d117fa2ead838dfacb.jpg",
     "static/media/thirdDivCard_2.jpg": "/DigiSkillsBelgium/static/media/thirdDivCard_2.c34207756270cb2d3a69.jpg",
     "static/media/thirdDivCard_3.jpg": "/DigiSkillsBelgium/static/media/thirdDivCard_3.07e2d506e1e1430bc226.jpg",
@@ -14,11 +18,11 @@
     "static/media/main_logo.png": "/DigiSkillsBelgium/static/media/main_logo.7c931bf48b9f467baaf2.png",
     "static/media/search_icon.png": "/DigiSkillsBelgium/static/media/search_icon.ca7aae46e8e72453beed.png",
     "index.html": "/DigiSkillsBelgium/index.html",
-    "main.46d47c8a.css.map": "/DigiSkillsBelgium/static/css/main.46d47c8a.css.map",
-    "main.84ceb8b1.js.map": "/DigiSkillsBelgium/static/js/main.84ceb8b1.js.map"
+    "main.b58e7f74.css.map": "/DigiSkillsBelgium/static/css/main.b58e7f74.css.map",
+    "main.eb0575ed.js.map": "/DigiSkillsBelgium/static/js/main.eb0575ed.js.map"
   },
   "entrypoints": [
-    "static/css/main.46d47c8a.css",
-    "static/js/main.84ceb8b1.js"
+    "static/css/main.b58e7f74.css",
+    "static/js/main.eb0575ed.js"
   ]
 }
