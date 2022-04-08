@@ -26,6 +26,7 @@ const FifthDiv = () => {
           h2TxtColorProp="#0C7EE9"
           btnColorProp="#8B8B8E"
           btnBgColorProp="#EAEFF5"
+          btnContentProps={2}
         />
         <Card
           imgProp={topPicks_2}
@@ -37,6 +38,7 @@ const FifthDiv = () => {
           h2TxtColorProp="#CD61ED"
           btnColorProp="#8B8B8E"
           btnBgColorProp="#EAEFF5"
+          btnContentProps={2}
         />
         <Card
           imgProp={topPicks_3}
@@ -48,6 +50,7 @@ const FifthDiv = () => {
           h2TxtColorProp="#2C1DE5"
           btnColorProp="#8B8B8E"
           btnBgColorProp="#EAEFF5"
+          btnContentProps={2}
         />
         <Card
           imgProp={topPicks_4}
@@ -59,6 +62,7 @@ const FifthDiv = () => {
           h2TxtColorProp="#EBAA3F"
           btnColorProp="#8B8B8E"
           btnBgColorProp="#EAEFF5"
+          btnContentProps={2}
         />
       </div>
     </div>

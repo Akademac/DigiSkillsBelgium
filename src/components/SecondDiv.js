@@ -48,6 +48,7 @@ const SecondDiv = () => {
             h3Prop="Training course W"
             spanColorProp="#0C7EE9"
             pProp="“Because of this 2-day training, I feel more secure in my role & my future at work.”"
+            btnContentProps={1}
           />
           <Card
             imgProp={topPicks_2}
@@ -56,6 +57,7 @@ const SecondDiv = () => {
             h3Prop="Project X"
             spanColorProp="#CD61ED"
             pProp="““Because of this 2-day training, I feel more secure in my role & my future at work.””"
+            btnContentProps={1}
           />
           <Card
             imgProp={topPicks_3}
@@ -64,6 +66,7 @@ const SecondDiv = () => {
             h3Prop="Digital Camp Y"
             spanColorProp="#2C1DE5"
             pProp="“Because of this 2-day training, I feel more secure in my role & my future at work.”"
+            btnContentProps={1}
           />
           <Card
             imgProp={topPicks_4}
@@ -72,6 +75,7 @@ const SecondDiv = () => {
             h3Prop="Digital tool Z"
             spanColorProp="#050835"
             pProp="“Because of this 2-day training, I feel more secure in my role & my future at work.”"
+            btnContentProps={1}
           />
         </div>
       </div>

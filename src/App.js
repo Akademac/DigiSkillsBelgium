@@ -2,6 +2,7 @@ import FifthDiv from "./components/FifthDiv";
 import FourthDiv from "./components/FourthDiv";
 import Header from "./components/Header";
 import SecondDiv from "./components/SecondDiv";
+import SixthDiv from "./components/SixthDiv";
 import ThirdDiv from "./components/ThirdDiv";
 
 function App() {
@@ -12,6 +13,7 @@ function App() {
       <ThirdDiv />
       <FourthDiv />
       <FifthDiv />
+      <SixthDiv />
     </div>
   );
 }
