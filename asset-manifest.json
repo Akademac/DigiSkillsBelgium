@@ -1,9 +1,11 @@
 {
   "files": {
-    "main.css": "/DigiSkillsBelgium/static/css/main.b58e7f74.css",
-    "main.js": "/DigiSkillsBelgium/static/js/main.eb0575ed.js",
+    "main.css": "/DigiSkillsBelgium/static/css/main.2f740ba4.css",
+    "main.js": "/DigiSkillsBelgium/static/js/main.3be290a7.js",
+    "static/media/seventhDiv_main.jpg": "/DigiSkillsBelgium/static/media/seventhDiv_main.6fd224ad692cf8612f32.jpg",
     "static/media/main_img.jpg": "/DigiSkillsBelgium/static/media/main_img.5d736710c24da234da05.jpg",
     "static/media/sixthDiv_main.jpg": "/DigiSkillsBelgium/static/media/sixthDiv_main.c8cf1afa284506a7176d.jpg",
+    "static/media/seventhDiv_img.jpg": "/DigiSkillsBelgium/static/media/seventhDiv_img.81cbcfe2787dbe342b47.jpg",
     "static/media/topPicks_1.jpg": "/DigiSkillsBelgium/static/media/topPicks_1.9d2b5b0d41f5dcf1ebac.jpg",
     "static/media/sixthDiv_2.jpg": "/DigiSkillsBelgium/static/media/sixthDiv_2.f6fd2cea58ebbf9929f8.jpg",
     "static/media/sixthDiv_1.jpg": "/DigiSkillsBelgium/static/media/sixthDiv_1.38f25ab08ac27c971fef.jpg",
@@ -15,14 +17,15 @@
     "static/media/thirdDivCard_1.jpg": "/DigiSkillsBelgium/static/media/thirdDivCard_1.8ee07f869efc245d1357.jpg",
     "static/media/topPicks_3.jpg": "/DigiSkillsBelgium/static/media/topPicks_3.94e1a444a9ed6fe186d3.jpg",
     "static/media/topPicks_2.jpg": "/DigiSkillsBelgium/static/media/topPicks_2.8ef61d198aa2b67e19ca.jpg",
+    "static/media/footer_logo.png": "/DigiSkillsBelgium/static/media/footer_logo.587584573cc8293caf8f.png",
     "static/media/main_logo.png": "/DigiSkillsBelgium/static/media/main_logo.7c931bf48b9f467baaf2.png",
     "static/media/search_icon.png": "/DigiSkillsBelgium/static/media/search_icon.ca7aae46e8e72453beed.png",
     "index.html": "/DigiSkillsBelgium/index.html",
-    "main.b58e7f74.css.map": "/DigiSkillsBelgium/static/css/main.b58e7f74.css.map",
-    "main.eb0575ed.js.map": "/DigiSkillsBelgium/static/js/main.eb0575ed.js.map"
+    "main.2f740ba4.css.map": "/DigiSkillsBelgium/static/css/main.2f740ba4.css.map",
+    "main.3be290a7.js.map": "/DigiSkillsBelgium/static/js/main.3be290a7.js.map"
   },
   "entrypoints": [
-    "static/css/main.b58e7f74.css",
-    "static/js/main.eb0575ed.js"
+    "static/css/main.2f740ba4.css",
+    "static/js/main.3be290a7.js"
   ]
 }
